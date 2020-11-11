@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img width="300"><img src="http://cooljapannow.jp/pictures/l/02/31/NEOGDS-44491_3.jpg" width="200" />
+<img width="302.25"><img src="http://cooljapannow.jp/pictures/l/02/31/NEOGDS-44491_3.jpg" width="200" />
