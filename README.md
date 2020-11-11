@@ -1,4 +1,4 @@
-<img src="https://github.githubassets.com/images/mona-whisper.gif" />
+<!-- <img src="https://github.githubassets.com/images/mona-whisper.gif" /> -->
 
 <!--
 **nukc/nukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="http://cooljapannow.jp/pictures/l/02/31/NEOGDS-44491_3.jpg" />
