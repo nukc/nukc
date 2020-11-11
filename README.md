@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="http://cooljapannow.jp/pictures/l/02/31/NEOGDS-44491_3.jpg" />
+
+<img width="100"><img src="http://cooljapannow.jp/pictures/l/02/31/NEOGDS-44491_3.jpg" width="200" />
