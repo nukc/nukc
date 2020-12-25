@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Keep learning 🤔
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nukc&theme=dracula&hide_title=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nukc" />
+### Hi there 👋
+
+> Keep learning 🤔
