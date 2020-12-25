@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Keep learning 🤔
 
-<img width="327"><img src="http://cooljapannow.jp/pictures/l/02/31/NEOGDS-44491_3.jpg" width="200" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nukc" />
