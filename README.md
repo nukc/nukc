@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!-- ### Hi there 👋 -->
 
-> Keep learning 🎧 <img src="https://github.githubassets.com/images/mona-whisper.gif" width="32"/> 
+> Keep learning 🎧
